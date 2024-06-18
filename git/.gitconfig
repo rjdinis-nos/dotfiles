@@ -1,0 +1,8 @@
+[user]
+	name = Ricardo Dinis
+	email = ricardo.dinis@nos.pt
+	signingkey = 36F261370D731DD7
+[commit]
+	gpgsign = true
+[init]
+	defaultBranch = main

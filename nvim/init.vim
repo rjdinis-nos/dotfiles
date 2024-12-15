@@ -25,6 +25,7 @@ set ttyfast                 " Speed up scrolling in Vim
 
 call plug#begin()
 Plug 'preservim/nerdtree'
+Plug 'christoomey/vim-tmux-navigator'
 " Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Plug 'github/copilot.vim'
 " Plugin 'vim-airline/vim-airline-themes'

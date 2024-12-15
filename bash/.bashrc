@@ -118,3 +118,4 @@ if ! shopt -oq posix; then
 fi
 
 eval "$(starship init bash)"
+export DOCKER_CONFIG=~/.config/docker
